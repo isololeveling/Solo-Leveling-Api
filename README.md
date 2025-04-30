@@ -115,7 +115,7 @@ Whether you're searching for:
 
 ## 📸 Screenshots & Media
 
-![Jin-Woo Transformation](refs/heads/main/public/img/hianime_v2.png)
+![Jin-Woo Transformation](public/img/hianime_v2.png)
 
 > A powerful moment from Episode 2 when Jin-Woo faces off against Thomas Andre.
 
@@ -132,15 +132,13 @@ git clone https://github.com/yourusername/solo-leveling-season-3.git
 cd solo-leveling-season-3
 ```
 
-To contribute summaries, theories, or episode updates, simply fork the repo and create a pull request. All submissions should follow the [Contribution Guidelines](CONTRIBUTING.md).
+To contribute summaries, theories, or episode updates, simply fork the repo and create a pull request.
 
 ---
 
 ## 📢 Contributing
 
 We welcome contributions from fans who want to support and grow the **Solo Leveling Season 3** fanbase! Whether it's episode recaps, fan art, or timeline theories, your contributions help make this the definitive place for Solo Leveling fans.
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ---
 
@@ -154,7 +152,7 @@ For real-time updates and community engagement, follow us:
 
 ## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ---
 
