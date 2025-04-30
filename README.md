@@ -146,8 +146,10 @@ We welcome contributions from fans who want to support and grow the **Solo Level
 
 For real-time updates and community engagement, follow us:
 
-- Blog: [@Solo Leveling Season 3](https://sololevelingseason3.org)
-
+- Blog: [@Solo Leveling](https://sololevelingseason3.org)
+- Season 1: [@Solo Leveling Season 2](https://sololevelingseason3.org/anime/solo-leveling-season-1/)
+- Season 2: [@Solo Leveling Season 2](https://sololevelingseason3.org/anime/solo-leveling-season-2/)
+- Season 3: [@Solo Leveling Season 3](https://sololevelingseason3.org/anime/solo-leveling-season-3/)
 ---
 
 ## 📜 License
